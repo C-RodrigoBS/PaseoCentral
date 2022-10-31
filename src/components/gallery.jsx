@@ -5,10 +5,9 @@ export const Gallery = (props) => {
     <div id='portfolio' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Gallery</h2>
+          <h2>Nuestros mejores eventos dentro de la semana</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Conoce aqui, cuales son los mejores eventos para tu fin de semana.
           </p>
         </div>
         <div className='row'>
