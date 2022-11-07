@@ -67,17 +67,17 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-cutlery",
-      "name": "PICARONES LENY",
+      "img": "img/comidas/chicharronesleny.png",
+      "name": "CHICHARRONES LENY",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cutlery",
+      "img": "img/comidas/bullgrill.png",
       "name": "BULL GRILL",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cutlery",
+      "img": "img/comidas/trevipng.png",
       "name": "TRE VINO",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Arturo Ibañez, Jacobo Hunter 04011 ",
+    "phone": "+51 932 315 710",
+    "email": "gfernandez@bastis.pe",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
