@@ -16,7 +16,7 @@ export const Services = (props) => {
                   <img src={d.img} alt='' />
                   <div className='service-desc'>
                     <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                    
                   </div>
                 </div>
               ))
